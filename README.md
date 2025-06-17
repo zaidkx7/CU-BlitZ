@@ -1,6 +1,6 @@
-# 🌀 UniBlitz – Automate University Evaluations & Access Results Instantly
+# 🌀 CU-BlitZ – Automate University Evaluations & Access Results Instantly
 
-UniBlitz is a lightweight Chrome Extension designed specifically for `City University` students who are required to complete teacher and course evaluations before accessing their results. It automates the repetitive rating and comment process, letting you unlock your result page with a single click.
+CU-BlitZ is a lightweight Chrome Extension designed specifically for `City University` students who are required to complete teacher and course evaluations before accessing their results. It automates the repetitive rating and comment process, letting you unlock your result page with a single click.
 
 ---
 
@@ -16,7 +16,7 @@ UniBlitz is a lightweight Chrome Extension designed specifically for `City Unive
 
 ## 🔧 How It Works
 
-UniBlitz runs on specific university domains (e.g., `cu.edu.pk`). Once you open the evaluation page or click the extension popup, it:
+CU-BlitZ runs on specific university domains (e.g., `cu.edu.pk`). Once you open the evaluation page or click the extension popup, it:
 
 1. Retrieves your saved rating/comment from storage
 2. Fills all questions and comment fields
@@ -27,7 +27,7 @@ UniBlitz runs on specific university domains (e.g., `cu.edu.pk`). Once you open 
 
 2. type in `CMD`
 ```bash
-git clone https://github.com/zaidkx7/UniBlitz.git
+git clone https://github.com/zaidkx7/CU-BlitZ.git
 ```
 
 ## 📦 Installation (for development)
